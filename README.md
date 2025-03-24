@@ -1,6 +1,6 @@
-# Personal Portfolio Website 🌐
+# Personal Website 🌐
 
-🚀 Welcome to my personal portfolio website! This website showcases my skills, experience, and projects in a clean and professional layout.
+🚀 Welcome to my personal website! This website showcases my skills, experience, and projects in a clean and professional layout.
 
 ## 🔹 Features
 - ✅ **Responsive Design** – Works smoothly on desktop & mobile devices.
